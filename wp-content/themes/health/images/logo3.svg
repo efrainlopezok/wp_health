@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570.066" height="289.994" viewBox="0 0 570.066 289.994">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 77px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+        letter-spacing: -0.107em;
+      }
+
+      .cls-3 {
+        font-size: 38px;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_120" data-name="Grupo 120" transform="translate(-689 -421)">
+    <g id="Grupo_119" data-name="Grupo 119">
+      <g id="Grupo_105" data-name="Grupo 105" transform="translate(868.5 421)">
+        <g id="Grupo_104" data-name="Grupo 104" transform="translate(0.193 182.552) rotate(-90)">
+          <path id="Trazado_327" data-name="Trazado 327" class="cls-1" d="M175.456,70.306a9.854,9.854,0,0,0,9.813-9.813V23.165a9.813,9.813,0,1,0-19.626,0V37.019l-7.7-7.7A91.09,91.09,0,1,0,93.681,184.984a91.185,91.185,0,0,0,90.242-78.5,9.714,9.714,0,1,0-19.241-2.694,70.752,70.752,0,0,1-20.4,40.792,71.7,71.7,0,1,1,0-101.4l7.7,7.7H138.128a9.813,9.813,0,1,0,0,19.626h37.328Z" transform="translate(185.176 -2.717) rotate(90)"/>
+        </g>
+        <path id="Unión_6" data-name="Unión 6" class="cls-1" d="M25.4,60.206V44.214H9.407a9.407,9.407,0,0,1,0-18.815H25.4V9.407a9.407,9.407,0,0,1,18.815,0V25.4H60.206a9.407,9.407,0,0,1,0,18.815H44.214V60.206a9.407,9.407,0,0,1-18.815,0Z" transform="translate(56.428 56.443)"/>
+      </g>
+    </g>
+    <g id="Grupo_106" data-name="Grupo 106" transform="translate(689 637.994)">
+      <text id="FUTURE" class="cls-2" transform="translate(0 55)"><tspan x="0" y="0">FUTURE</tspan></text>
+      <text id="HEALTH" class="cls-2" transform="translate(304.067 55)"><tspan x="0" y="0">HEALTH</tspan></text>
+      <text id="OF" class="cls-3" transform="translate(250.681 54.853)"><tspan x="0" y="0">OF</tspan></text>
+    </g>
+  </g>
+</svg>
